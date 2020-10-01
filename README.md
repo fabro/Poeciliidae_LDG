@@ -1,5 +1,5 @@
 # Poeciliidae_LDG
-Analyses and code for the paper "Evolutionary and environmental drivers of viviparous freshwater fishes richness across the Americas" by Garcia-Andrade et al. Submitted to Global Ecology and Biogeography
+R code for the analyses from "Evolutionary and environmental drivers of viviparous freshwater fishes richness across the Americas" by Garcia-Andrade et al. Submitted to Global Ecology and Biogeography
 
 R code to replicate all data treatment and analyses from the paper
 
