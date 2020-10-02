@@ -19,6 +19,7 @@ R code to replicate all data treatment and analyses from the paper
 
 ## References
 Jetz, W., Thomas, G. H., Joy, J. B., Hartmann, K., & Mooers, A. Ø. (2012). The global diversity of birds in space and time. Nature, 491, 444–448.
+
 Lehner, B., & Grill, G. (2013). Global river hydrography and network routing: Baseline data and new approaches to study the world’s large river systems. Hydrological Processes, 27, 2171–2186.
 
 Lehner, B., Verdin, K., & Jarvis, A. (2006). HydroSHEDS technical documentation. Washington DC.
