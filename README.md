@@ -1,5 +1,5 @@
 # Poeciliidae Latitudinal Diversity Gradient
-R code for the analyses from "Evolutionary and environmental drivers of species richness in poeciliid fishes across the Americas" by García-Andrade et al. (Re)Submitted to Global Ecology and Biogeography
+R code for the analyses from "Evolutionary and environmental drivers of species richness in poeciliid fishes across the Americas" by García-Andrade et al. 2021. Global Ecology and Biogeography, 30:1245–1257.
 
 R code to replicate all data treatment and analyses from the paper
 
