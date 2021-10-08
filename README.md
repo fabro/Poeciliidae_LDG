@@ -8,7 +8,7 @@ R code to replicate all data treatment and analyses from the paper
 
 (2) Presence-absence matrix: This section creates the presence-absence matrix (PAM) that will be used to calculate all modeled variables (response and predictors),  using the species' extents of occurrence. 
 
-(3) Evolutionary time: This section calculates the mean pairwise distance (MPD) across a multiphylo object
+(3) Evolutionary time: This section calculates the maximum branch length (MBL) across a multiphylo object
 
 (4) Speciation rates: This section calculates the mean diversification rate (mDR)
 
